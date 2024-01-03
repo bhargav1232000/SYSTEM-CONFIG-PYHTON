@@ -280,3 +280,8 @@ if __name__ == "__main__":
             print(f"Windows Version: {windows_version}")
     except Exception as e:
         print(f"Error: {e}")
+"""Internet speed Pip install speedtest-cli
+Gpu model Pip install gputil
+Ram Pip install psutil
+Screen size Pip install screeninfo
+Public ip adres Pip install requests"""
